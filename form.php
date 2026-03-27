@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Form Raja</title>
+        <title>Form Kansey</title>
     </head>
     <body>
         <h2 align="center">Input Data</h2>
