@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Form y</title>
+        <title>Form yahya</title>
     </head>
     <body>
         <h2 align="center">Input Data</h2>
